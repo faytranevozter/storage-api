@@ -8,7 +8,7 @@ require (
 	github.com/getsentry/sentry-go v0.29.1
 	github.com/gin-gonic/gin v1.9.1
 	github.com/golang-jwt/jwt/v4 v4.5.1
-	github.com/gosimple/slug v1.12.0
+	github.com/gosimple/slug v1.15.0
 	github.com/joho/godotenv v1.4.0
 	github.com/sirupsen/logrus v1.9.0
 	go.mongodb.org/mongo-driver v1.9.1
